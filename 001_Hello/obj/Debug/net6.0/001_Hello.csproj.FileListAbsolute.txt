@@ -1,0 +1,15 @@
+C:\Users\KSY\Desktop\C#\001_Hello\bin\Debug\net6.0\001_Hello.exe
+C:\Users\KSY\Desktop\C#\001_Hello\bin\Debug\net6.0\001_Hello.deps.json
+C:\Users\KSY\Desktop\C#\001_Hello\bin\Debug\net6.0\001_Hello.runtimeconfig.json
+C:\Users\KSY\Desktop\C#\001_Hello\bin\Debug\net6.0\001_Hello.dll
+C:\Users\KSY\Desktop\C#\001_Hello\bin\Debug\net6.0\001_Hello.pdb
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.csproj.AssemblyReference.cache
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.AssemblyInfoInputs.cache
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.AssemblyInfo.cs
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.dll
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\refint\001_Hello.dll
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.pdb
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\001_Hello.genruntimeconfig.cache
+C:\Users\KSY\Desktop\C#\001_Hello\obj\Debug\net6.0\ref\001_Hello.dll
