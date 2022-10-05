@@ -1,0 +1,15 @@
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.AssemblyInfo.cs
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\KSY\Desktop\C#\002_HelloUser\bin\Debug\net6.0\002_HelloUser.exe
+C:\Users\KSY\Desktop\C#\002_HelloUser\bin\Debug\net6.0\002_HelloUser.deps.json
+C:\Users\KSY\Desktop\C#\002_HelloUser\bin\Debug\net6.0\002_HelloUser.runtimeconfig.json
+C:\Users\KSY\Desktop\C#\002_HelloUser\bin\Debug\net6.0\002_HelloUser.dll
+C:\Users\KSY\Desktop\C#\002_HelloUser\bin\Debug\net6.0\002_HelloUser.pdb
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.dll
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\refint\002_HelloUser.dll
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.pdb
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\002_HelloUser.genruntimeconfig.cache
+C:\Users\KSY\Desktop\C#\002_HelloUser\obj\Debug\net6.0\ref\002_HelloUser.dll
