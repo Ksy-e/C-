@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая принимает на вход координаты точки (х и у), причем
+// они не равны 0, и выдает номер четверти плоскости в которой находится эта точка
 //void quarter(int x, int y) {
  // if (x>0 && y>0)
   //   Console.WriteLine("1 четверть");
