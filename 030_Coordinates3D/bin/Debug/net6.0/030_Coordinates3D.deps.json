@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "030_Coordinates3D/1.0.0": {
+        "runtime": {
+          "030_Coordinates3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "030_Coordinates3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
