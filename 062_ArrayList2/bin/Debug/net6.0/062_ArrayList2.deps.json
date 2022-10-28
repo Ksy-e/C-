@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "062_ArrayList2/1.0.0": {
+        "runtime": {
+          "062_ArrayList2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "062_ArrayList2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
