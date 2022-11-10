@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "069_ArraySwap/1.0.0": {
+        "runtime": {
+          "069_ArraySwap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "069_ArraySwap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
