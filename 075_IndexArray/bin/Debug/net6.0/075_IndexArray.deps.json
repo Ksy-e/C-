@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "075_IndexArray/1.0.0": {
+        "runtime": {
+          "075_IndexArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "075_IndexArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
