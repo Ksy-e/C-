@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "084_RecursionNumbersSum/1.0.0": {
+        "runtime": {
+          "084_RecursionNumbersSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "084_RecursionNumbersSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
